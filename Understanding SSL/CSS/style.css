@@ -1,0 +1,52 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.hero-banner {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+}
+
+.hero-banner h1 {
+    font-size: 2.5rem;
+}
+
+.hero-banner p {
+    font-size: 1.2rem;
+}
+
+
+section h2 {
+    text-align: center;
+    margin: 20px 0;
+    color: #007BFF;
+}
+
+section article {
+    background: white;
+    margin: 20px 0;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+section h3 {
+    color: #007BFF;
+    margin-bottom: 10px;
+}
